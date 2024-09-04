@@ -11,7 +11,7 @@ My CV.
 * About me
 * Projects  
   - Flight Status Prediction
-  - Airbnb Dashboard
+  - Walmart Dashboard
 * Certifications
 * Contact
 * gibberish
